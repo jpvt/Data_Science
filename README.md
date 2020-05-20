@@ -21,11 +21,7 @@ Currently studying and producing articles related to Machine Learning and Big Da
 
 * [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
 * [Bass Line Generator using LSTM Neural Network](https://bit.ly/2zP31iq): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
-* **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
-* **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
-* **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
-* **Como criar uma Wordcloud em Python:** https://bit.ly/2OxsphM
-* **Como lidar com dados desbalanceados:** https://bit.ly/2ZlaNsV
+* [Multilabel Classification of Music into emotions](https://bit.ly/2WQnexr)
 
 ---
 
