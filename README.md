@@ -7,18 +7,20 @@
 # João Pedro Vasconcelos Teixeira
 <sub>*Computer Engineering undergrad* at Universidade Federal da Paraíba</sub>
 
-**Background in:** C/C++, Python, Machine Learning and Computer Vision.
+I am a Computer Engineering undergrad student interested in Data Science, and Software Engineering, but also curious about other areas like Operations Research, Computer Graphics, Computer Vision, and IoT.
+
+Currently studying and producing articles related to Machine Learning and Big Data. 
+
+**Background in:** C/C++, Python, Machine Learning, Big Data, and Computer Vision.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
-Veja os tutoriais publicados do Sigmoidal:
 
-* **Como usar o Histograma para Data Science:** https://bit.ly/2L2cMwy
-* **Como Implementar Regressão Linear com Python:** https://bit.ly/2Li5pzY
+* [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
+* [Bass Line Generator using LSTM Neural Network](https://bit.ly/2zP31iq): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
 * **Data Science: Investigando o naufrágio do Titanic:** https://bit.ly/2Ubr5SH
 * **Como Tratar Dados Ausentes com Pandas:** https://bit.ly/31KWSMN
 * **XGBoost: aprenda este algoritmo de Machine Learning em Python:** https://bit.ly/2UbRhws
