@@ -7,7 +7,11 @@
 # João Pedro Vasconcelos Teixeira
 <sub>*Computer Engineering undergrad* at Universidade Federal da Paraíba</sub>
 
-**Background in:** C/C++, Python, Machine Learning and Computer Vision.
+I am a Computer Engineering undergrad student interested in Data Science, and Software Engineering, but also curious about other areas like Operations Research, Computer Graphics, Computer Vision, and IoT.
+
+Currently studying and producing articles related to Machine Learning and Big Data. 
+
+**Background in:** C/C++, Python, Machine Learning, Big Data, and Computer Vision.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
