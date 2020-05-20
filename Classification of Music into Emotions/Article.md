@@ -1,0 +1,1 @@
+In this notebook, I will discuss the results of my first assignment of the class Introduction to Artificial Intelligence. My job was to implement an automatic emotion detector in music from a pre-determined dataset. Finally, I will discuss my results and present some insights into the data.
