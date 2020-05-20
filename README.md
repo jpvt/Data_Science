@@ -15,7 +15,6 @@ Currently studying and producing articles related to Machine Learning and Big Da
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
-* [Medium](https://www.medium.com)
 
 
 ## Projetos:
