@@ -19,9 +19,10 @@ Currently studying and producing articles related to Machine Learning and Big Da
 
 ## Jupyter Notebooks:
 
+* [Multilabel Classification of Music into emotions](https://bit.ly/2WQnexr): First assignment for AI Class at Universidade Federal da Paraíba.
+* [Metro Interstate Traffic Volume analysis and predicting](https://bit.ly/3dqZWUm): Second assignment for AI Class at Universidade Federal da Paraíba.
 * [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
 * [Bass Line Generator using LSTM Neural Network](https://bit.ly/2zP31iq): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/void-zero).
-* [Multilabel Classification of Music into emotions](https://bit.ly/2WQnexr): First assignment for AI Class at Universidade Federal da Paraíba.
 
 ---
 
