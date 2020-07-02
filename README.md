@@ -7,9 +7,13 @@
 # João Pedro Vasconcelos Teixeira
 <sub>*Computer Engineering undergrad* at Universidade Federal da Paraíba</sub>
 
-I am a Computer Engineering undergrad student interested in Data Science, and Software Engineering, but also curious about other areas like Operations Research, Computer Graphics, Computer Vision, and IoT.
+Hey, I'm João Pedro. (Since it's a complicated name to pronounce in english, you can call me JP)
 
-Currently studying and producing articles related to Machine Learning and Big Data. 
+I'm from São Paulo, Brazil. Though, I have spent most of my life where I currently live João Pessoa, Brazil.
+
+I'm a Computer Engineering Undergrad student at the [Federal University of Paraíba](https://www.ufpb.br), and a Machine Learning Researcher at [ArIA - Artificial Intelligence Applications Laboratory](https://aria.ci.ufpb.br), where I've been studying Artificial Intelligence for the past months.
+
+Outside of computer science, I enjoy learning random stuff, traveling, playing Dungeons&Dragons, and caffeine :)
 
 **Background in:** C/C++, Python, Machine Learning, Big Data, and Computer Vision.
 
