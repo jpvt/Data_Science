@@ -19,6 +19,7 @@ Outside of computer science, I enjoy learning random stuff, traveling, playing D
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
+* [Personal Blog](jpvt.github.io)
 
 
 ## Jupyter Notebooks:
