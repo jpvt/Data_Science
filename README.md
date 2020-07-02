@@ -15,7 +15,7 @@ I'm a Computer Engineering Undergrad student at the [Federal University of Para√
 
 Outside of computer science, I enjoy learning random stuff, traveling, playing Dungeons&Dragons, and caffeine :)
 
-**Background in:** C/C++, Python, Machine Learning, Big Data, and Computer Vision.
+**Background in:** C/C++, Python, Machine Learning, Data Analysis.
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
