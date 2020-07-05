@@ -5,13 +5,7 @@
 </p>
 
 
-# About me
-
-<a href="https://www.linkedin.com/in/jpvt/" target="_blank">**João Pedro Vasconcelos**</a>
-:---: 
-<img src="https://github.com/jpvt/Computer_Graphics/blob/master/imgs/author.JPG" width="200px"> </img>
-<a href="http://github.com/jpvt" target="_blank">`github.com/jpvt`</a>
-
+# João Pedro Vasconcelos
 <sub>*Computer Engineering undergrad* at Universidade Federal da Paraíba</sub>
 
 Hey, I'm João Pedro. (Since it's a complicated name to pronounce in english, you can call me JP)
@@ -23,6 +17,11 @@ I'm a Computer Engineering Undergrad student at the [Federal University of Para�
 Outside of computer science, I enjoy learning random stuff, traveling, playing Dungeons & Dragons, and caffeine :)
 
 **Background in:** C/C++, Python, Machine Learning, Data Analysis.
+
+ <a href="https://www.linkedin.com/in/jpvt/" target="_blank">**João Pedro Vasconcelos**</a>
+:---: 
+<img src="https://github.com/jpvt/Computer_Graphics/blob/master/imgs/author.JPG" width="200px"> </img>
+<a href="http://github.com/jpvt" target="_blank">`github.com/jpvt`</a>
 
 **Links:**
 * [LinkedIn](https://www.linkedin.com/in/jpvt)
