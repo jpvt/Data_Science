@@ -37,7 +37,7 @@ Outside of computer science, I enjoy learning random stuff, traveling, playing D
 ## Clone
 
 - Clone this repo to your local machine using
-> git clone https://github.com/jpvt/Computer_Graphics.git
+> git clone https://github.com/jpvt/Data_Science.git
 
 ---
 
