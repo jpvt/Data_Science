@@ -28,10 +28,20 @@ Outside of computer science, I enjoy learning random stuff, traveling, playing D
 
 * [Multilabel Classification of Music into emotions](https://bit.ly/2WQnexr): First assignment for AI Class at Universidade Federal da Paraíba.
 * [Metro Interstate Traffic Volume analysis and predicting](https://bit.ly/3dqZWUm): Second assignment for AI Class at Universidade Federal da Paraíba.
+* [Document Cleanup](https://github.com/jpvt/cv-test/blob/joaoteixeira/01-DocumentCleanup/DocumentCleanup.ipynb): Denoising documents with computer vision and digital image processing.
+* [SMS Spam Detection](https://github.com/jpvt/cv-test/blob/joaoteixeira/04-SMSSpamDetection/SMSSpamDetection.ipynb): SMS Spam Detection with Machine Learning.
 
 ## Projects:
-* [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace).
+* [GANdido Portinari](https://github.com/ItamarRocha/GANdido-Portinari): In this project we trained a CycleGan to reproduce Candido's Portinari style into photos of places and people.  Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace).
+* [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace), [Felipe Honorato](https://github.com/Felipehonorato1)
 * [Bass Line Generator using LSTM Neural Network](https://bit.ly/2zP31iq): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace).
+* [OpenDIP](https://opendip.herokuapp.com): Project for Digital Image Processing course, a tool for processing images. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace). [PORTUGUESE]
+
+## Related repositories:
+
+* [Deep Learning](https://github.com/jpvt/Deep_Learning): Repository dedicated to the Deep Learning Course took at the Federal University of Paraíba, Brazil
+* [Reinforcement Learning](https://github.com/jpvt/Reinforcement_Learning): Repository dedicated to some of my reinforcement learning projects and my coursera specialization assignments.
+* [Digital Image Processing](https://github.com/jpvt/Digital_Image_Processing): Repository dedicated to the Digital Image Processing Course took at the Federal University of Paraíba, Brazil [PORTUGUESE]
 
 ---
 ## Clone
