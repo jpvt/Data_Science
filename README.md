@@ -32,8 +32,9 @@ Outside of computer science, I enjoy learning random stuff, traveling, playing D
 * [SMS Spam Detection](https://github.com/jpvt/cv-test/blob/joaoteixeira/04-SMSSpamDetection/SMSSpamDetection.ipynb): SMS Spam Detection with Machine Learning.
 
 ## Projects:
-* [GANdido Portinari](https://github.com/ItamarRocha/GANdido-Portinari): In this project we trained a CycleGan to reproduce Candido's Portinari style into photos of places and people.  Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace).
-* [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace), [Felipe Honorato](https://github.com/Felipehonorato1)
+* [GANdido Portinari](https://github.com/ItamarRocha/GANdido-Portinari): In this project we trained a CycleGan to reproduce Candido's Portinari style into photos of places and people.  Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace), [Felipe Honorato](https://github.com/Felipehonorato1).
+* [Melanoma Detection Tool](https://github.com/jpvt/melanoma-detection): This tool can support dermatological clinic work by evaluating a patient's moles to identify outlier lesions or “ugly ducklings” that are most likely to be melanoma. Made with PyTorch, Flask and Dockerized application.
+* [IQ Option Bot](https://bit.ly/2ZmsgTQ): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace)
 * [Bass Line Generator using LSTM Neural Network](https://bit.ly/2zP31iq): Project for AI Class at Universidade Federal da Paraíba. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace).
 * [OpenDIP](https://opendip.herokuapp.com): Project for Digital Image Processing course, a tool for processing images. Coauthors:  [Itamar Rocha Filho](https://github.com/ItamarRocha), [João Wallace Lins](https://github.com/joallace). [PORTUGUESE]
 
